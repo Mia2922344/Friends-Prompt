@@ -40,20 +40,20 @@ When analyzing character traits, **prioritize the immediate conversational conte
 - **Core Traits**: Quirky, unpredictable, spiritual, independent, artistic, bluntly honest, deeply caring.
 - **Character Arc**: Overcomes a tough childhood and maintains an eccentric but warm personality.
 
----
+
 
 ### Joey Tribbiani
 - **Core Traits**: Lovable, dim-witted, flirty, charismatic, food-loving, fiercely loyal, naive but street-smart.
 - **Character Arc**: A struggling actor who remains an optimistic, carefree spirit.
 
----
+
 
 ### Chandler Bing
 - **Core Traits**: Sarcastic, insecure, witty, awkward, intelligent but emotionally repressed, deeply loyal.
 - **Character Arc**: Overcomes commitment issues, develops emotional maturity, and builds a stable family.
 
 
----
+
 
 ### Ross Geller
 - **Core Traits**: Intelligent, socially awkward, romantic, dramatic, competitive, self-pitying, stubborn.
@@ -127,131 +127,6 @@ For **multi-strategy responses**, explain how each strategy contributes to **Spe
 
 ---
 
-
-## Core Strategies (Primary Communicative Intent)
-
-### **Humor (Using humor to manage the conversation)**
-- **Sarcasm** – Delivering ironic or cutting remarks.
-- **Playfulness** – Lighthearted teasing, comedic relief.
-- **Self-deprecation** – Using humor at one’s own expense.
-- **Exaggeration** – Overstating something for dramatic or comedic effect.
-- **Absurdity** – Responding with a deliberately ridiculous statement.
-- **Witty Deflection** – Using humor to subtly change the subject.
-
----
-
-### **Reassurance (Providing comfort or emotional support)**
-- **Emotional Support** – Directly comforting the other person.
-- **Encouragement** – Motivating or uplifting the speaker.
-- **Affirmation** – Reinforcing or validating the speaker’s feelings.
-- **Protective Reassurance** – Easing concerns by downplaying a problem.
-- **Optimistic Framing** – Reframing an issue in a positive light.
-
----
-
-### **Avoidance (Steering the conversation away from a topic)**
-- **Deflection** – Avoiding a direct answer by shifting the focus.
-- **Topic Change** – Moving the discussion in a different direction.
-- **Evasion** – Giving a vague or ambiguous response.
-- **Feigning Ignorance** – Pretending not to understand the topic.
-- **Distracting Humor** – Using humor to steer the conversation elsewhere.
-
----
-
-### **Confrontation (Directly challenging or pushing back against the speaker)**
-- **Argumentation** – Engaging in a logical debate.
-- **Criticism** – Pointing out flaws or mistakes in the speaker’s statement.
-- **Mocking** – Ridiculing Speaker 1, either playfully or sharply.
-- **Exasperation** – Expressing irritation or impatience.
-- **Blunt Honesty** – Responding with direct and unfiltered truth.
-- **Reversing the Accusation** – Flipping the issue back on the speaker.
-
----
-
-### **Assertion (Taking a firm stance in the conversation)**
-- **Confidence Assertion** – Making a bold and assured statement.
-- **Boundary-Setting** – Explicitly setting a personal or conversational limit.
-- **Disagreement** – Stating outright disagreement without escalation.
-- **Clarification** – Correcting or refining what was said.
-- **Reasserting Perspective** – Repeating one’s stance more firmly.
-
----
-
-### **Logical Reasoning (Using facts or logic to make a point)**
-- **Rational Justification** – Supporting an argument with reasoning.
-- **Hypothetical Framing** – Using "what if" scenarios to illustrate a point.
-- **Contradiction Exposure** – Highlighting inconsistencies in the speaker’s argument.
-- **Cause-and-Effect Explanation** – Explaining why something happened.
-- **Overanalysis** – Breaking down something in an unnecessarily detailed way.
-
----
-
-### **Empathy (Demonstrating understanding of the speaker’s feelings)**
-- **Reflective Listening** – Paraphrasing the speaker’s concerns to show understanding.
-- **Emotional Validation** – Acknowledging the speaker’s feelings as legitimate.
-- **Relatable Experience** – Sharing a personal experience to empathize.
-- **Nonverbal Sympathy** – Using gestures or tone to express empathy.
-- **Softened Response** – Responding gently to avoid emotional harm.
-
----
-
-### **Passive Aggression (Indirectly expressing frustration or disagreement)**
-- **Backhanded Compliment** – Giving a disguised insult.
-- **Intentional Misinterpretation** – Pretending to misunderstand to subtly mock.
-- **Fake Agreement** – Pretending to agree in an insincere way.
-- **Sarcastic Dismissal** – Using sarcasm to reject a point.
-- **Feigning Disinterest** – Responding in a way that implies apathy.
-
----
-
-### **Supportive Encouragement (Helping the speaker feel more confident)**
-- **Motivational Pep Talk** – Giving an inspirational push.
-- **Confidence Boosting** – Highlighting strengths to improve self-esteem.
-- **Casual Cheerleading** – Offering lighthearted positive reinforcement.
-- **Validation Through Example** – Citing past successes as encouragement.
-
----
-
-### **Playfulness (Engaging in lighthearted or silly conversation)**
-- **Friendly Teasing** – Playfully joking about the other person.
-- **Goofiness** – Responding in an exaggeratedly silly way.
-- **Mock Drama** – Overplaying emotions for comedic effect.
-- **Roleplay or Imitation** – Pretending to be someone else in a joke.
-- **Fake Exaggerated Reaction** – Reacting as if something is a bigger deal than it is.
-
----
-
-### **Flirtation (Using charm or suggestive humor in conversation)**
-- **Playful Complimenting** – Using light praise in a flirtatious way.
-- **Double Meaning** – Saying something with a secondary suggestive interpretation.
-- **Teasing Flirtation** – Mocking in a way that implies attraction.
-- **Challenging Flirtation** – Playfully pushing back to create intrigue.
-- **Physical Flirtation** – Using body language or gestures flirtatiously.
-
----
-
-### **Defensive Response (Reacting as if under attack, even when not directly provoked)**
-- **Justification** – Defending one’s stance or actions.
-- **Shifting Blame** – Redirecting fault elsewhere.
-- **Overreaction** – Responding disproportionately to a perceived slight.
-- **Sarcastic Retort** – Using sarcasm to push back against an implied criticism.
-- **Over-Explaining** – Giving excessive detail to defend oneself.
-
----
-
-### **Indifference (Demonstrating a lack of investment in the topic)**
-- **Apathetic Response** – Indicating that the topic doesn’t matter.
-- **Minimal Engagement** – Giving short, non-committal responses.
-- **Changing the Subject Casually** – Moving on without acknowledging the previous point.
-- **Ignoring a Prompt** – Not responding to an implied request.
-
----
-
-### **Thoughtful Reflection (Taking a deeper, more serious approach to a topic)**
-- **Analytical Perspective** – Breaking down an issue deeply.
-- **Personal Introspection** – Relating the topic to one’s own experience.
-- **Philosophical Musing** – Posing a broader existential or moral question.
-- **Reframing Perspective** – Encouraging the speaker to see something differently.
 
 
 If an existing sub-strategy does not precisely capture the nuances of the response, identify the differences and create a new, more specific sub-strategy that better reflects Speaker 2’s intent, tone, and effect in the conversation. Whenever a response deviates in any way from an existing sub-strategy, define a new sub-strategy that accounts for these distinctions.
