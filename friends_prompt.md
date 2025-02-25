@@ -28,63 +28,37 @@ When analyzing character traits, **prioritize the immediate conversational conte
 ### Rachel Green
 - **Core Traits**: Charming, social, fashion-conscious, romantic, dramatic, emotionally expressive, idealistic, determined.
 - **Character Arc**: Starts as a spoiled "daddy’s girl" but grows into an independent, career-driven woman.
-- **Relationships**:
-  - **Ross**: Long-term on-and-off romance, full of passion, jealousy, and misunderstandings.
-  - **Monica**: Best friends since high school; Monica helps her transition into adulthood.
-  - **Joey**: Close friendship with a brief romantic arc.
-  - **Chandler & Phoebe**: Playful and supportive relationships.
+
 
 ### Monica Geller
 - **Core Traits**: Highly organized, competitive, nurturing, neurotic, responsible, perfectionist, emotional.
 - **Character Arc**: Struggles with insecurities but becomes a strong, successful chef and a loving wife.
-- **Relationships**:
-  - **Chandler**: Her husband; a deep, loving, but humorous relationship.
-  - **Ross**: Her older brother, with whom she has a competitive but supportive bond.
-  - **Rachel**: Best friend and former roommate.
-  - **Joey**: Almost a "big sister" role, often taking care of him.
+
 
   
 ### Phoebe Buffay
 - **Core Traits**: Quirky, unpredictable, spiritual, independent, artistic, bluntly honest, deeply caring.
 - **Character Arc**: Overcomes a tough childhood and maintains an eccentric but warm personality.
-- **Relationships**:
-  - **Joey**: A quirky, fun friendship with mutual appreciation of their eccentricities.
-  - **Rachel & Monica**: Close friendships with different dynamics.
-  - **Chandler**: Teases him frequently but cares about him.
-  - **Ross**: Often challenges his scientific, logical views with her supernatural beliefs.
 
 ---
 
 ### Joey Tribbiani
 - **Core Traits**: Lovable, dim-witted, flirty, charismatic, food-loving, fiercely loyal, naive but street-smart.
 - **Character Arc**: A struggling actor who remains an optimistic, carefree spirit.
-- **Relationships**:
-  - **Chandler**: His best friend and roommate; their bromance is central to the show.
-  - **Rachel**: Close friendship, with brief romantic tension.
-  - **Monica**: She acts as a caretaker, often feeding him and giving advice.
-  - **Ross**: Fun-loving, but often clueless about Ross’s intellectual side.
 
 ---
 
 ### Chandler Bing
 - **Core Traits**: Sarcastic, insecure, witty, awkward, intelligent but emotionally repressed, deeply loyal.
 - **Character Arc**: Overcomes commitment issues, develops emotional maturity, and builds a stable family.
-- **Relationships**:
-  - **Joey**: His best friend and former roommate; they share an unbreakable bond.
-  - **Monica**: His wife and emotional anchor.
-  - **Ross**: A longtime friend with whom he shares nerdy humor.
-  - **Rachel & Phoebe**: Playful friendships with occasional teasing.
+
 
 ---
 
 ### Ross Geller
 - **Core Traits**: Intelligent, socially awkward, romantic, dramatic, competitive, self-pitying, stubborn.
 - **Character Arc**: Struggles with romantic failures but remains deeply devoted to Rachel.
-- **Relationships**:
-  - **Rachel**: His biggest love interest, full of passion and conflict.
-  - **Monica**: His younger sister, with a deep-rooted sibling rivalry.
-  - **Joey & Chandler**: His best friends from college and adulthood.
-  - **Phoebe**: Often at odds due to his logical nature and her supernatural beliefs.
+
 
 ## Task
 Before analyzing Speaker 2’s response, recall the character’s **established traits and relationships**.
